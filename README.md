@@ -9,7 +9,7 @@ Instructions:
 
 `docker compose up`
 
-From another terminal you can connect with (adjusting user:pass and db names as needed):
+From another terminal you can connect with:
 
 `psql postgresql://postgres:postgres@localhost:5433/postgres`
 
